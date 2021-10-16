@@ -1,0 +1,1 @@
+Using Agile methodolgy in a group of 4. We designed a UI that allows users, and more specifically Overwatch gamers, to compare their in-game statistics for a particular selection of games and an algorithm that outputs the better player after statistical comparison. 
